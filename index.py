@@ -20,3 +20,7 @@ def is_even():
         print("Number is even")
     else:
         print("Number is odd")
+
+
+# is_odd:
+def 
