@@ -11,3 +11,12 @@ def is_prime():
                 print(num, "is a prime number")
     else:
         print(num, "is not a prime number")
+
+
+# is_even:
+def is_even():
+    num = int(input("Enter a number: "))
+    if num % 2 == 0:
+        print("Number is even")
+    else:
+        print("Number is odd")
