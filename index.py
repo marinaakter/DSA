@@ -22,5 +22,3 @@ def is_even():
         print("Number is odd")
 
 
-# is_odd:
-def 
